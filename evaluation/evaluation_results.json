@@ -1,0 +1,47 @@
+[
+    {
+        "question": "How can I reset my password?",
+        "answer": "To reset your password, please follow these general steps:\n\n1. Go to the login page of the website or app.\n2. Click on the \"Forgot Password?\" link.\n3. Enter your registered email address or username.\n4. Check your email for a password reset link.\n5. Follow the instructions in the email to create a new password.\n\nIf you encounter any issues, please let me know!",
+        "keyword_coverage": 1.0,
+        "latency_seconds": 4.0934,
+        "input_tokens": 136,
+        "output_tokens": 81,
+        "total_tokens": 217
+    },
+    {
+        "question": "How do I contact customer support?",
+        "answer": "To contact customer support, you can typically find the contact information on the company's official website. Look for a \"Contact Us\" or \"Support\" section, which may provide options such as phone numbers, email addresses, or live chat. If you need specific details for a particular company, please let me know!",
+        "keyword_coverage": 1.0,
+        "latency_seconds": 1.8477,
+        "input_tokens": 136,
+        "output_tokens": 62,
+        "total_tokens": 198
+    },
+    {
+        "question": "What should I do if my account is locked?",
+        "answer": "If your account is locked, please follow these steps:\n\n1. **Check Your Email**: Look for any messages from the company regarding the lockout. There may be instructions or information about why your account was locked.\n\n2. **Reset Your Password**: If the option is available, try resetting your password. This can often unlock your account.\n\n3. **Contact Customer Support**: If you're unable to unlock your account through the above methods, reach out to customer support for assistance. Provide them with any relevant information to help resolve the issue.\n\n4. **Follow Security Protocols**: Be prepared to verify your identity, as customer support may require additional information to unlock your account.\n\nIf you need specific contact details for customer support, please let me know!",
+        "keyword_coverage": 1.0,
+        "latency_seconds": 2.4307,
+        "input_tokens": 139,
+        "output_tokens": 153,
+        "total_tokens": 292
+    },
+    {
+        "question": "How can I update my email address?",
+        "answer": "To update your email address, please follow these general steps:\n\n1. Log in to your account on our website or app.\n2. Go to the \"Account Settings\" or \"Profile\" section.\n3. Look for an option to edit your email address.\n4. Enter your new email address and save the changes.\n5. You may need to verify the new email address by clicking on a link sent to it.\n\nIf you encounter any issues or need further assistance, please let me know!",
+        "keyword_coverage": 1.0,
+        "latency_seconds": 9.0409,
+        "input_tokens": 137,
+        "output_tokens": 99,
+        "total_tokens": 236
+    },
+    {
+        "question": "How can I report a technical issue?",
+        "answer": "To report a technical issue, please follow these steps:\n\n1. **Gather Information**: Note down any error messages, the steps you took before the issue occurred, and any relevant details about your device or software.\n\n2. **Contact Support**: Reach out to our customer support team through the designated support channel, such as email, phone, or a support ticket system.\n\n3. **Provide Details**: When you contact support, include all the information you gathered. This will help the team understand and address the issue more effectively.\n\nIf you need specific contact information or further assistance, please let me know!",
+        "keyword_coverage": 1.0,
+        "latency_seconds": 7.0728,
+        "input_tokens": 137,
+        "output_tokens": 122,
+        "total_tokens": 259
+    }
+]

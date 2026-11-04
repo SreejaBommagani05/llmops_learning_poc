@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How can I reset my password?",
+    "expected_keywords": ["password", "reset"]
+  },
+  {
+    "question": "How do I contact customer support?",
+    "expected_keywords": ["support", "contact"]
+  },
+  {
+    "question": "What should I do if my account is locked?",
+    "expected_keywords": ["account", "locked"]
+  },
+  {
+    "question": "How can I update my email address?",
+    "expected_keywords": ["email", "update"]
+  },
+  {
+    "question": "How can I report a technical issue?",
+    "expected_keywords": ["technical", "issue"]
+  }
+]
